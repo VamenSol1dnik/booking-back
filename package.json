@@ -1,0 +1,19 @@
+{
+  "name": "server_booking",
+  "version": "1.0.0",
+  "description": "dz",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamenSol1dnik/booking_backend.git"
+  },
+  "author": "VamenSol1dnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VamenSol1dnik/booking_backend/issues"
+  },
+  "homepage": "https://github.com/VamenSol1dnik/booking_backend#readme"
+}
